@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>789000348873-2r6s6vttnjdr1rdudjk64v9er1qrg4qq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.789000348873-2r6s6vttnjdr1rdudjk64v9er1qrg4qq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB52UNu1QAyGim1jyc7k32bLiTi4dv9krg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>789000348873</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.honeyandhome.shopping</string>
+	<key>PROJECT_ID</key>
+	<string>shoping-e1267</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shoping-e1267.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:789000348873:ios:fcfaf6d55c672e36</string>
+	<key>DATABASE_URL</key>
+	<string>https://shoping-e1267.firebaseio.com</string>
+</dict>
+</plist>
